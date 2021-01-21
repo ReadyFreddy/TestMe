@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e057fd3-a7fc-4ad6-a778-d5e38a4ef428" name="Default Changelist" comment="Custom class örnek" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1msMcfMvK0HfrOlMfRkxibrprSO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e057fd3-a7fc-4ad6-a778-d5e38a4ef428" name="Default Changelist" comment="" />
+      <created>1610277925421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610277925421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Custom class örnek">
+      <created>1611260963034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611260963034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Custom class örnek" />
+    <option name="LAST_COMMIT_MESSAGE" value="Custom class örnek" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="243" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1611257350221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="243" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611257350221" />
+    <state x="545" y="155" width="1200" height="800" key="AVDManager" timestamp="1611258140144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="155" width="1200" height="800" key="AVDManager/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611258140144" />
+    <state x="714" y="253" key="AndroidProcessChooserDialog" timestamp="1611257248892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="253" key="AndroidProcessChooserDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611257248892" />
+    <state x="724" y="310" key="FileChooserDialogImpl" timestamp="1611261054802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="310" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611261054802" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1610278951292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610278951292" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1610278951292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610278951292" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1610278951292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610278951292" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1610278951292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610278951292" />
+    <state x="396" y="152" key="SettingsEditor" timestamp="1611258139635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="396" y="152" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611258139635" />
+    <state x="551" y="236" key="run.anything.popup" timestamp="1611257312162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="236" key="run.anything.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611257312162" />
+    <state x="558" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1611257923344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="226" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1611257923344" />
+  </component>
+</project>
